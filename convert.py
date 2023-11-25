@@ -43,16 +43,17 @@ def process_raw(path):
             category = df['industry'][na_index]
             
             if (ind + 1) == len(indcaps):
-                df.loc[na_index:, -1] = category
+                df.loc[na_index:, 'category'] = category
                 break
             
             next_index = indcaps[ind+1]
-            df.loc[na_index:next_index-1, -1] = category
+            df.loc[na_index:next_index-1, 'category'] = category
             
         # Drop appropriate categories
         df.drop(cicna, axis=0, inplace=True)
         
         df.to_csv(f'./csv/{file[0:8]}.csv', index=False)
+
 
 def load_sql(path):
     
@@ -83,4 +84,4 @@ def load_sql(path):
 
 
 process_raw('./raw/')
-#load_sql('./csv/')
+load_sql('./csv/')
