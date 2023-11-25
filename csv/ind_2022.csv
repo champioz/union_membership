@@ -1,0 +1,282 @@
+cic,industry,obs,employment,members,covered,percentmem,percentcov,year
+1000,"AGRICULTURE, FORESTRY, FISHING, & HUNTING",1392000,1305519,59365,66706,4.55,5.11,2022
+170,Crop production,681000,725802,34430,37037,4.74,5.1,2022
+180,Animal production,409000,329541,6328,7943,1.92,2.41,2022
+190,Forestry except logging,73000,50838,6757,9875,13.29,19.42,2022
+270,Logging,76000,61430,2482,2482,4.04,4.04,2022
+280,"Fishing, hunting, and trapping",41000,21638,0,0,0.0,0.0,2022
+290,Support activities for agriculture and forestry,112000,116267,9367,9367,8.06,8.06,2022
+2000,MINING,757000,560224,39335,46686,7.02,8.33,2022
+370,Oil and gas extraction,83000,69852,2820,2820,4.04,4.04,2022
+380,Coal mining,92000,34942,6112,6112,17.49,17.49,2022
+390,Metal ore mining,51000,33053,6493,7717,19.65,23.35,2022
+470,Nonmetallic mineral mining and quarrying,90000,68776,8913,8913,12.96,12.96,2022
+490,Support activities for mining,441000,353599,14995,21123,4.24,5.97,2022
+3000,UTILITIES,9410000,10408468,1444123,1531107,13.87,14.71,2022
+570,"Electric power generation, transmission and distribution",704000,690841,141337,150673,20.46,21.81,2022
+580,Natural gas distribution,119000,115060,20281,21780,17.63,18.93,2022
+590,"Electric and gas, and other combinations",100000,116925,36923,36923,31.58,31.58,2022
+670,"Water, steam, air conditioning, and irrigation systems",253000,265687,62177,68831,23.4,25.91,2022
+680,Sewage treatment facilities,107000,118826,28869,31745,24.3,26.72,2022
+690,Not specified utilities,35000,38362,10116,10116,26.37,26.37,2022
+770,CONSTRUCTION,8092000,9062764,1144418,1211035,12.63,13.36,2022
+4000,NONDURABLE GOODS MANUFACTURING,4739000,5295787,405436,436693,7.66,8.25,2022
+1070,"Animal food, grain, and oilseed milling",163000,165071,13887,13887,8.41,8.41,2022
+1080,Sugar and confectionery products,73000,74104,11382,11382,15.36,15.36,2022
+1090,Fruit and vegetable preserving and specialty food manufacturing,143000,144353,13747,14377,9.52,9.96,2022
+1170,Dairy product manufacturing,154000,161700,12650,14212,7.82,8.79,2022
+1180,Animal slaughtering and processing,501000,461849,74695,80076,16.17,17.34,2022
+1190,Retail bakeries,149000,172461,6800,6800,3.94,3.94,2022
+1270,"Bakeries and tortilla manufacturing, except retail",181000,228804,25169,25169,11.0,11.0,2022
+1280,"Seafood and other miscellaneous foods, n.e.c.",199000,224596,16054,17880,7.15,7.96,2022
+1290,Not specified food industries,60000,70918,2354,2354,3.32,3.32,2022
+1370,Beverage manufacturing,272000,337914,23007,26914,6.81,7.96,2022
+1390,Tobacco manufacturing,8000,12442,0,0,0.0,0.0,2022
+1470,"Fiber, yarn, and thread mills",9000,11312,0,0,0.0,0.0,2022
+1480,"Fabric mills, except knitting mills",61000,64021,6434,6434,10.05,10.05,2022
+1490,Textile and fabric finishing and coating mills,4000,2248,0,0,0.0,0.0,2022
+1570,Carpet and rug mills,35000,39599,0,0,0.0,0.0,2022
+1590,"Textile product mills, except carpet and rug",61000,59485,996,1814,1.67,3.05,2022
+1670,"Knitting mills, and apparel knitting mills",11000,8346,0,0,0.0,0.0,2022
+1691,"Cut and sew, and apparel accessories and other apparel manufacturing",144000,179082,10885,14864,6.08,8.3,2022
+1770,Footwear manufacturing,30000,32395,1756,1756,5.42,5.42,2022
+1790,Leather tanning and finishing and other leather and allied products manufacturi,13000,15256,0,0,0.0,0.0,2022
+1870,"Pulp, paper, and paperboard mills",155000,164398,37638,37638,22.89,22.89,2022
+1880,Paperboard containers and boxes,80000,88296,9598,11073,10.87,12.54,2022
+1890,Miscellaneous paper and pulp products,65000,74673,4502,4502,6.03,6.03,2022
+1990,Printing and related support activities,321000,395132,11032,11032,2.79,2.79,2022
+2070,Petroleum refining,168000,169115,28976,28976,17.13,17.13,2022
+2090,Miscellaneous petroleum and coal products,21000,24146,5726,6712,23.72,27.8,2022
+2170,"Resin, synthetic rubber and fibers, and filaments manufacturing",132000,161241,7012,7012,4.35,4.35,2022
+2180,Agricultural chemical manufacturing,32000,25835,310,310,1.2,1.2,2022
+2190,Pharmaceutical and medicine manufacturing,542000,657038,8354,10532,1.27,1.6,2022
+2270,"Paint, coating, and adhesives manufacturing",52000,67165,3339,3339,4.97,4.97,2022
+2280,"Soap, cleaning compound, and cosmetic manufacturing",108000,120808,3324,4852,2.75,4.02,2022
+2290,Industrial and miscellaneous chemicals,354000,392103,27910,31957,7.12,8.15,2022
+2370,Plastics product manufacturing,321000,363848,17507,20444,4.81,5.62,2022
+2380,Tire manufacturing,54000,68468,16341,16341,23.87,23.87,2022
+2390,"Rubber product, except tire, manufacturing",63000,57547,4039,4039,7.02,7.02,2022
+5000,DURABLE GOODS MANUFACTURING,8436000,9400676,756040,842131,8.04,8.96,2022
+2470,"Pottery, ceramics, and plumbing fixture manufacturing",13000,11699,0,0,0.0,0.0,2022
+2480,Structural clay product manufacturing,17000,16012,1388,1388,8.67,8.67,2022
+2490,Glass and glass product manufacturing,122000,141537,16561,16561,11.7,11.7,2022
+2570,"Cement, concrete, lime, and gypsum product manufacturing",135000,152878,9320,11312,6.1,7.4,2022
+2590,Miscellaneous nonmetallic mineral product manufacturing,63000,67707,827,827,1.22,1.22,2022
+2670,Iron and steel mills and steel product manufacturing,249000,267383,61024,64306,22.82,24.05,2022
+2680,Aluminum production and processing,58000,57485,16675,16675,29.01,29.01,2022
+2690,Nonferrous metal (except aluminum) production and processing,48000,49998,8546,8546,17.09,17.09,2022
+2770,Foundries,47000,52179,4461,4461,8.55,8.55,2022
+2780,Metal forgings and stampings,26000,36578,4932,4932,13.48,13.48,2022
+2790,Cutlery and hand tool manufacturing,43000,47985,8631,11836,17.99,24.67,2022
+2870,"Structural metals, and boiler, tank, and shipping container manufacturing",275000,307178,28903,28903,9.41,9.41,2022
+2880,"Machine shops; turned product; screw, nut, and bolt manufacturing",234000,259868,10166,12412,3.91,4.78,2022
+2890,"Coating, engraving, heat treating and allied activities",46000,50710,0,0,0.0,0.0,2022
+2970,Ordnance,67000,56615,10821,10821,19.11,19.11,2022
+2980,Miscellaneous fabricated metal products manufacturing,265000,305727,18728,21268,6.13,6.96,2022
+2990,Not specified metal industries,19000,22085,1225,1225,5.55,5.55,2022
+3070,Agricultural implement manufacturing,152000,131827,13943,14434,10.58,10.95,2022
+3080,"Construction, and mining and oil and gas field machinery manufacturing",170000,164335,8842,9788,5.38,5.96,2022
+3095,Commercial and service industry machinery manufacturing,57000,65400,0,0,0.0,0.0,2022
+3170,Metalworking machinery manufacturing,85000,102656,5423,7156,5.28,6.97,2022
+3180,"Engines, turbines, and power transmission equipment manufacturing",30000,30090,0,4292,0.0,14.26,2022
+3291,"Machinery manufacturing, n.e.c. or not specified",643000,719506,41919,47206,5.83,6.56,2022
+3365,Computer and peripheral equipment manufacturing,106000,114148,894,894,0.78,0.78,2022
+3370,"Communications, and audio and video equipment manufacturing",79000,104993,4934,4934,4.7,4.7,2022
+3380,"Navigational, measuring, electromedical, and control instruments manufacturing",132000,141384,11191,12808,7.92,9.06,2022
+3390,"Electronic component and product manufacturing, n.e.c.",604000,655708,5846,10308,0.89,1.57,2022
+3470,Household appliance manufacturing,65000,72844,6046,6046,8.3,8.3,2022
+3490,"Electrical lighting and electrical equipment manufacturing, and other electrica",289000,328293,20291,20291,6.18,6.18,2022
+3570,Motor vehicles and motor vehicle equipment manufacturing,1140000,1419898,225001,237567,15.85,16.73,2022
+3580,Aircraft and parts manufacturing,756000,852126,92247,108420,10.83,12.72,2022
+3590,Aerospace product and parts manufacturing,66000,72688,2352,2664,3.24,3.67,2022
+3670,Railroad rolling stock manufacturing,21000,23119,4363,4363,18.88,18.88,2022
+3680,Ship and boat building,176000,151093,14514,18033,9.61,11.94,2022
+3690,Other transportation equipment manufacturing,28000,32425,5894,5894,18.18,18.18,2022
+3770,Sawmills and wood preservation,145000,128425,8331,10128,6.49,7.89,2022
+3780,"Veneer, plywood, and engineered wood products",36000,32573,977,1449,3.0,4.45,2022
+3790,Prefabricated wood buildings and mobile homes,24000,25329,0,0,0.0,0.0,2022
+3875,Miscellaneous wood products,192000,205858,9389,11105,4.56,5.39,2022
+3895,Furniture and related product manufacturing,331000,336937,10269,17828,3.05,5.29,2022
+3960,Medical equipment and supplies manufacturing,619000,687007,10173,13581,1.48,1.98,2022
+3970,"Sporting and athletic goods, and doll, toy and game manufacturing",95000,99562,3318,3318,3.33,3.33,2022
+3980,"Miscellaneous manufacturing, n.e.c.",370000,402292,20570,24430,5.11,6.07,2022
+3990,Not specified manufacturing industries,298000,396515,27089,29701,6.83,7.49,2022
+6000,WHOLESALE TRADE,2649000,2885766,94931,112239,3.29,3.89,2022
+4070,"Motor vehicles, parts and supplies, merchant wholesalers",133000,163739,3810,3810,2.33,2.33,2022
+4080,"Furniture and home furnishing, merchant wholesalers",49000,65060,0,0,0.0,0.0,2022
+4090,"Lumber and other construction materials, merchant wholesalers",131000,132964,5296,6815,3.98,5.13,2022
+4170,"Professional and commercial equipment and supplies, merchant wholesalers",210000,221310,1793,1793,0.81,0.81,2022
+4180,"Metals and minerals, except petroleum, merchant wholesalers",19000,19862,0,0,0.0,0.0,2022
+4195,"Electrical and electronic goods, merchant wholesalers",148000,163043,1860,1860,1.14,1.14,2022
+4265,"Hardware, plumbing and heating equipment, and supplies, merchant wholesalers",144000,155946,4156,4156,2.67,2.67,2022
+4270,"Machinery, equipment, and supplies, merchant wholesalers",309000,311014,4361,6891,1.4,2.22,2022
+4280,"Recyclable material, merchant wholesalers",44000,49051,1570,1570,3.2,3.2,2022
+4290,"Miscellaneous durable goods, merchant wholesalers",81000,86723,2949,2949,3.4,3.4,2022
+4370,"Paper and paper products, merchant wholesalers",28000,33368,2473,2473,7.41,7.41,2022
+4380,"Drugs, sundries, and chemical and allied products, merchant wholesalers",163000,192382,1649,3504,0.86,1.82,2022
+4390,"Apparel, piece goods, and notions, merchant wholesalers",70000,94894,1275,2637,1.34,2.78,2022
+4470,"Groceries and related products, merchant wholesalers",632000,685773,54048,57387,7.88,8.37,2022
+4480,"Farm product raw materials, merchant wholesalers",64000,49153,1013,1013,2.06,2.06,2022
+4490,"Petroleum and petroleum products, merchant wholesalers",79000,72624,1471,3819,2.03,5.26,2022
+4560,"Alcoholic beverages, merchant wholesalers",103000,106201,4095,6390,3.86,6.02,2022
+4570,"Farm supplies, merchant wholesalers",36000,34593,759,759,2.2,2.2,2022
+4580,"Miscellaneous nondurable goods, merchant wholesalers",119000,138256,640,640,0.46,0.46,2022
+4585,"Wholesale electronics markets, agents and brokers",39000,48971,334,334,0.68,0.68,2022
+4590,Not specified wholesale trade,48000,60827,1371,3429,2.25,5.64,2022
+7000,RETAIL TRADE,13850000,15094408,653792,755215,4.33,5.0,2022
+4670,Automobile dealers,1064000,1159151,25863,33787,2.23,2.91,2022
+4680,Other motor vehicle dealers,162000,151834,0,0,0.0,0.0,2022
+4690,"Auto parts, accessories, and tire stores",423000,438514,6809,11672,1.55,2.66,2022
+4770,Furniture and home furnishings stores,403000,437315,4510,9067,1.03,2.07,2022
+4780,Household appliance stores,47000,51854,1587,3294,3.06,6.35,2022
+4795,Electronics stores,345000,422945,12319,14351,2.91,3.39,2022
+4870,Building material and supplies dealers,1036000,1054692,13674,19668,1.3,1.86,2022
+4880,Hardware stores,200000,176837,2896,3047,1.64,1.72,2022
+4890,Lawn and garden equipment and supplies stores,284000,250074,1350,1350,0.54,0.54,2022
+4971,Supermarkets and other grocery (except convenience) stores,2221000,2447176,394512,426850,16.12,17.44,2022
+4972,Convenience Stores,317000,304062,1322,1952,0.43,0.64,2022
+4980,Specialty food stores,185000,213661,5473,5647,2.56,2.64,2022
+4990,"Beer, wine, and liquor stores",125000,138240,3568,3568,2.58,2.58,2022
+5070,Pharmacies and drug stores,759000,867742,39593,49324,4.56,5.68,2022
+5080,"Health and personal care, except drug, stores",347000,394136,1895,3518,0.48,0.89,2022
+5090,Gasoline stations,438000,449558,9184,11067,2.04,2.46,2022
+5170,Clothing stores,668000,828137,11697,12028,1.41,1.45,2022
+5180,Shoe stores,111000,127833,0,0,0.0,0.0,2022
+5190,"Jewelry, luggage, and leather goods stores",116000,132356,1530,1530,1.16,1.16,2022
+5275,"Sporting goods, camera, and hobby and toy stores",367000,377873,703,6065,0.19,1.61,2022
+5280,"Sewing, needlework and piece goods stores",30000,27145,2318,2318,8.54,8.54,2022
+5295,Musical instrument and supplies stores,32000,36138,1961,1961,5.43,5.43,2022
+5370,Book stores and news dealers,63000,72094,1641,1641,2.28,2.28,2022
+5381,Department stores,274000,309325,9556,12597,3.09,4.07,2022
+5391,"General merchandise stores, including warehouse clubs and supercenters",1912000,2039442,57964,69727,2.84,3.42,2022
+5470,Florists,80000,85289,0,0,0.0,0.0,2022
+5480,Office supplies and stationery stores,72000,73198,498,498,0.68,0.68,2022
+5490,Used merchandise stores,171000,177519,10189,10189,5.74,5.74,2022
+5570,"Gift, novelty, and souvenir shops",102000,97015,0,0,0.0,0.0,2022
+5580,Miscellaneous retail stores,411000,455668,7519,8170,1.65,1.79,2022
+5593,Electronic shopping and mail-order houses,611000,768993,10842,14444,1.41,1.88,2022
+5670,Vending machine operators,17000,19671,0,0,0.0,0.0,2022
+5680,Fuel dealers,86000,69927,439,910,0.63,1.3,2022
+5690,Other direct selling establishments,40000,44135,0,0,0.0,0.0,2022
+5790,Not specified retail trade,331000,394844,12367,14961,3.13,3.79,2022
+8000,TRANSPORTATION & WAREHOUSING,6492000,7578251,1518231,1612252,20.03,21.27,2022
+6070,Air transportation,610000,695453,263923,275732,37.95,39.65,2022
+6080,Rail transportation,233000,231211,124973,130719,54.05,56.54,2022
+6090,Water transportation,86000,86227,25293,27045,29.33,31.36,2022
+6170,Truck transportation,1573000,1772275,126970,144217,7.16,8.14,2022
+6180,Bus service and urban transit,391000,457071,188152,199941,41.16,43.74,2022
+6190,Taxi and limousine service,244000,315769,8865,11536,2.81,3.65,2022
+6270,Pipeline transportation,60000,54067,1538,1538,2.84,2.84,2022
+6280,Scenic and sightseeing transportation,42000,38679,4036,4036,10.44,10.44,2022
+6290,Services incidental to transportation,640000,756299,116847,123606,15.45,16.34,2022
+6370,Postal Service,595000,625851,383796,403732,61.32,64.51,2022
+6380,Couriers and messengers,1083000,1324903,209912,223087,15.84,16.84,2022
+6390,Warehousing and storage,935000,1220442,63921,67058,5.24,5.49,2022
+9000,INFORMATION,2271000,2545698,230235,250630,9.04,9.85,2022
+6470,Newspaper publishers,110000,109701,15289,15289,13.94,13.94,2022
+6480,"Periodical, book, and directory publishers",123000,133859,1995,6938,1.49,5.18,2022
+6490,Software publishers,137000,157586,1562,1562,0.99,0.99,2022
+6570,Motion pictures and video industries,299000,384249,68846,71004,17.92,18.48,2022
+6590,Sound recording industries,30000,46119,6594,6594,14.3,14.3,2022
+6670,Broadcasting (except internet),300000,311659,34941,35483,11.21,11.39,2022
+6672,Internet publishing and broadcasting and web search portals,183000,228738,3892,5354,1.7,2.34,2022
+6680,Wired telecommunications carriers,355000,398481,45304,47231,11.37,11.85,2022
+6690,"Telecommunications, except wired telecommunications carriers",346000,378791,20671,26256,5.46,6.93,2022
+6695,"Data processing, hosting, and related services",120000,132797,2087,2087,1.57,1.57,2022
+6770,Libraries and archives,236000,230710,28721,32499,12.45,14.09,2022
+6780,"Other information services, except libraries and archives, and internet publish",32000,33002,325,325,0.99,0.99,2022
+10000,FINANCE & INSURANCE,6479000,7235060,116080,165968,1.6,2.29,2022
+6870,Banking and related activities,1830000,1913293,18648,33342,0.97,1.74,2022
+6880,"Savings institutions, including credit unions",301000,297571,8227,10493,2.77,3.53,2022
+6890,Non-depository credit and related activities,944000,1132721,18888,24736,1.67,2.18,2022
+6970,"Securities, commodities, funds, trusts, and other financial investments",1058000,1255996,28182,34814,2.24,2.77,2022
+6991,Insurance carriers,1503000,1700756,34939,46037,2.05,2.71,2022
+6992,"Agencies, brokerages, and other insurance related activities",843000,934721,7194,16543,0.77,1.77,2022
+11000,REAL ESTATE & RENTAL & LEASING,2026000,2276295,98984,119262,4.35,5.24,2022
+7071,"Lessors of real estate, and offices of real estate agents and brokers",1328000,1516495,64909,78893,4.28,5.2,2022
+7072,"Real estate property managers, offices of real estate appraisers, and other act",429000,463773,18366,21321,3.96,4.6,2022
+7080,Automotive equipment rental and leasing,113000,136723,4665,6327,3.41,4.63,2022
+7181,Other consumer goods rental,56000,56391,2585,2585,4.58,4.58,2022
+7190,"Commercial, industrial, and other intangible assets rental and leasing",100000,102911,8458,10135,8.22,9.85,2022
+12000,"PROF., SCIENTIFIC, TECHNICAL SERVICES",10136000,11455323,182753,248608,1.6,2.17,2022
+7270,Legal services,1220000,1289843,24395,32879,1.89,2.55,2022
+7280,"Accounting, tax preparation, bookkeeping and payroll services",855000,986308,15456,18951,1.57,1.92,2022
+7290,"Architectural, engineering, and related services",1563000,1675341,50430,58015,3.01,3.46,2022
+7370,Specialized design services,197000,251435,4739,6239,1.89,2.48,2022
+7380,Computer systems design and related services,3241000,3859958,43517,65075,1.13,1.69,2022
+7390,"Management, scientific and technical consulting services",1226000,1386333,20681,25202,1.49,1.82,2022
+7460,Scientific research and development services,782000,828455,10875,23741,1.31,2.87,2022
+7470,Advertising and related services,423000,497134,3971,8649,0.8,1.74,2022
+7480,Veterinary services,349000,374263,6580,7748,1.76,2.07,2022
+7490,"Other professional, scientific and technical services",280000,306247,2104,2104,0.69,0.69,2022
+13000,MANAGEMENT & RELATED SERVICES,4808000,5601081,287853,326194,5.14,5.82,2022
+7570,Management of companies and enterprises,83000,96069,3407,3407,3.55,3.55,2022
+7580,Employment services,779000,905196,24071,36707,2.66,4.06,2022
+7590,Business support services,481000,564747,9360,14684,1.66,2.6,2022
+7670,Travel arrangements and reservation services,226000,268250,10573,12042,3.94,4.49,2022
+7680,Investigation and security services,668000,804319,53183,59636,6.61,7.41,2022
+7690,Services to buildings and dwellings (except cleaning during construction and im,1061000,1220914,81748,84282,6.7,6.9,2022
+7770,Landscaping services,796000,940166,26222,32032,2.79,3.41,2022
+7780,Other administrative and other support services,275000,323451,17868,18768,5.52,5.8,2022
+7790,Waste management and remediation services,439000,477964,61418,64631,12.85,13.52,2022
+14000,EDUCATIONAL SERVICES,12916000,13576614,4010796,4496881,29.54,33.12,2022
+7860,Elementary and secondary schools,8687000,9077033,3471258,3874947,38.24,42.69,2022
+7870,"Colleges and universities, including junior colleges",3582000,3778558,500652,576516,13.25,15.26,2022
+7880,"Business, technical, and trade schools and training",85000,87556,7583,9402,8.66,10.74,2022
+7890,"Other schools and instruction, and educational support services",562000,633465,31301,36015,4.94,5.69,2022
+15000,HEALTH CARE & SOCIAL ASSISTANCE,18917000,20332959,1627297,1879275,8.0,9.24,2022
+7970,Offices of physicians,1343000,1467163,43775,54551,2.98,3.72,2022
+7980,Offices of dentists,852000,911505,15851,19344,1.74,2.12,2022
+7990,Office of chiropractors,91000,98771,0,0,0.0,0.0,2022
+8070,Offices of optometrists,142000,141280,2923,2923,2.07,2.07,2022
+8080,Offices of other health practitioners,202000,225620,9478,17828,4.2,7.9,2022
+8090,Outpatient care centers,1955000,2047775,91981,114684,4.49,5.6,2022
+8170,Home health care services,1234000,1412724,88541,100336,6.27,7.1,2022
+8180,Other health care services,1345000,1525336,118084,132958,7.74,8.72,2022
+8191,"General medical and surgical hospitals, and specialty (except psychiatric and s",6941000,7356677,927840,1051215,12.61,14.29,2022
+8192,Psychiatric and substance abuse hospitals,78000,78752,19196,21367,24.38,27.13,2022
+8270,Nursing care facilities (skilled nursing facilities),1191000,1270084,80337,89779,6.33,7.07,2022
+8290,"Residential care facilities, except skilled nursing facilities",798000,832088,30287,34854,3.64,4.19,2022
+8370,Individual and family services,1481000,1586546,151155,171229,9.53,10.79,2022
+8380,"Community food and housing, and emergency services",156000,156547,6310,8553,4.03,5.46,2022
+8390,Vocational rehabilitation services,84000,92411,3264,3264,3.53,3.53,2022
+8470,Child day care services,1024000,1129674,38267,56382,3.39,4.99,2022
+16000,"ARTS, ENTERTAINMENT, & RECREATION",2373000,2604108,193596,226900,7.43,8.71,2022
+8561,Performing arts companies,108000,129091,30622,34131,23.72,26.44,2022
+8562,Spectator sports,97000,119473,12293,17688,10.29,14.81,2022
+8563,"Promoters of performing arts, sports, and similar events, agents and managers f",89000,98628,9501,10049,9.63,10.19,2022
+8564,"Independent artists, writers, and performers",62000,79509,3017,5655,3.79,7.11,2022
+8570,"Museums, art galleries, historical sites, and similar institutions",384000,376040,48225,51862,12.82,13.79,2022
+8580,Bowling centers,49000,60509,0,0,0.0,0.0,2022
+8590,"Other amusement, gambling, and recreation industries",1584000,1740855,89937,107512,5.17,6.18,2022
+17000,ACCOMODATION & FOOD SERVICES,8699000,9888746,210010,248889,2.12,2.52,2022
+8660,Traveler accommodation,1084000,1092674,79401,84257,7.27,7.71,2022
+8670,"Recreational vehicle parks and camps, and rooming and boarding houses, dormitor",88000,90604,3305,3305,3.65,3.65,2022
+8680,Restaurants and other food services,7321000,8476575,122968,156991,1.45,1.85,2022
+8690,"Drinking places, alcoholic beverages",206000,228892,4334,4334,1.89,1.89,2022
+18000,"OTHER SERVICES, EXC. PUBLIC ADMIN.",5564000,5975812,183547,211444,3.07,3.54,2022
+8770,Automotive repair and maintenance,967000,1078528,17159,21362,1.59,1.98,2022
+8780,Car washes,120000,149578,3532,3532,2.36,2.36,2022
+8790,Electronic and precision equipment repair and maintenance,80000,92410,3108,3108,3.36,3.36,2022
+8870,Commercial and industrial machinery and equipment repair and maintenance,267000,284352,19887,21575,6.99,7.59,2022
+8891,Personal and household goods repair and maintenance,84000,98538,0,0,0.0,0.0,2022
+8970,Barber shops,54000,69768,1673,2971,2.4,4.26,2022
+8980,Beauty salons,473000,544249,3256,5407,0.6,0.99,2022
+8990,Nail salons and other personal care services,306000,365309,723,723,0.2,0.2,2022
+9070,Dry cleaning and laundry services,172000,181820,9604,9604,5.28,5.28,2022
+9080,"Funeral homes, and cemeteries and crematories",125000,121723,5380,5854,4.42,4.81,2022
+9090,Other personal services,306000,350415,16526,17940,4.72,5.12,2022
+9160,Religious organizations,925000,960738,9428,18198,0.98,1.89,2022
+9170,"Civic, social, advocacy organizations, and grantmaking and giving services",864000,754717,19088,21864,2.53,2.9,2022
+9180,Labor unions,90000,100437,63130,63130,62.86,62.86,2022
+9190,"Business, professional, political, and similar organizations",174000,157097,7714,7714,4.91,4.91,2022
+9290,Private households,557000,666123,3333,8455,0.5,1.27,2022
+19000,PUBLIC ADMINISTRATION,7800000,7677692,2167664,2418806,28.23,31.5,2022
+9370,Executive offices and legislative bodies,1186000,1107770,199121,227171,17.98,20.51,2022
+9380,Public finance activities,370000,369566,89600,101542,24.24,27.48,2022
+9390,Other general government and support,156000,157944,22082,29458,13.98,18.65,2022
+9470,"Justice, public order, and safety activities",2557000,2756269,1139381,1230056,41.34,44.63,2022
+9480,Administration of human resource programs,1335000,1378161,363601,408728,26.38,29.66,2022
+9490,Administration of environmental quality and housing programs,372000,286174,59826,67009,20.91,23.42,2022
+9570,Administration of economic programs and space research,688000,579957,126866,151748,21.88,26.17,2022
+9590,National security and international affairs,1136000,1041848,167183,203090,16.05,19.49,2022

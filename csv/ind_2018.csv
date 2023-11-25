@@ -1,0 +1,279 @@
+cic,industry,obs,employment,members,covered,percentmem,percentcov,year
+1000,"AGRICULTURE, FORESTRY, FISHING, & HUNTING",1803000,1383976,33383,40101,2.41,2.9,2018
+170,Crop production,816000,700485,18277,22407,2.61,3.2,2018
+180,Animal production,597000,400074,4313,4763,1.08,1.19,2018
+190,Forestry except logging,67000,33312,3684,4790,11.06,14.38,2018
+270,Logging,117000,79287,3831,4862,4.83,6.13,2018
+280,"Fishing, hunting, and trapping",63000,37773,327,327,0.87,0.87,2018
+290,Support activities for agriculture and forestry,143000,133044,2950,2950,2.22,2.22,2018
+2000,MINING,1264000,725530,34066,38697,4.7,5.33,2018
+370,Oil and gas extraction,107000,68826,3156,3637,4.59,5.28,2018
+380,Coal mining,158000,65051,4722,4885,7.26,7.51,2018
+390,Metal ore mining,52000,25984,3204,4038,12.33,15.54,2018
+470,"Nonmetallic mineral and not specified mining, and quarrying",176000,104285,12098,12895,11.6,12.37,2018
+490,Support activities for mining,771000,461382,10884,13241,2.36,2.87,2018
+3000,UTILITIES,11177000,9886543,1467778,1560572,14.85,15.78,2018
+570,"Electric power generation, transmission and distribution",894000,728413,171474,175760,23.54,24.13,2018
+580,Natural gas distribution,162000,136440,22825,23895,16.73,17.51,2018
+590,"Electric and gas, and other combinations",141000,129258,28994,29133,22.43,22.54,2018
+670,"Water, steam, air conditioning, and irrigation systems",303000,246984,52462,54271,21.24,21.97,2018
+680,Sewage treatment facilities,105000,89761,22733,27435,25.33,30.56,2018
+690,Not specified utilities,25000,21414,5621,6164,26.25,28.79,2018
+770,CONSTRUCTION,9547000,8534270,1163666,1243911,13.64,14.58,2018
+4000,NONDURABLE GOODS MANUFACTURING,6208000,5471264,492406,529813,9.0,9.68,2018
+1070,"Animal food, grain, and oilseed milling",196000,154808,9991,9991,6.45,6.45,2018
+1080,Sugar and confectionery products,99000,70582,10297,10297,14.59,14.59,2018
+1090,Fruit and vegetable preserving and specialty food manufacturing,177000,153265,20043,21394,13.08,13.96,2018
+1170,Dairy product manufacturing,229000,166568,13038,14204,7.83,8.53,2018
+1180,Animal slaughtering and processing,682000,500282,82790,88913,16.55,17.77,2018
+1190,Retail bakeries,252000,220164,20168,22035,9.16,10.01,2018
+1270,"Bakeries, except retail",209000,202132,23233,25906,11.49,12.82,2018
+1280,"Seafood and other miscellaneous foods, n.e.c.",226000,188590,19697,21477,10.44,11.39,2018
+1290,Not specified food industries,71000,60930,5397,5397,8.86,8.86,2018
+1370,Beverage manufacturing,315000,303575,29536,29536,9.73,9.73,2018
+1390,Tobacco manufacturing,15000,19160,2382,2382,12.43,12.43,2018
+1470,"Fiber, yarn, and thread mills",10000,9843,0,0,0.0,0.0,2018
+1480,"Fabric mills, except knitting",98000,94130,2393,2393,2.54,2.54,2018
+1490,Textile and fabric finishing and coating mills,14000,12265,0,0,0.0,0.0,2018
+1570,Carpet and rug mills,65000,65519,661,661,1.01,1.01,2018
+1590,"Textile product mills, except carpet and rug",83000,84168,1044,1044,1.24,1.24,2018
+1670,"Knitting mills, and apparel knitting mills",20000,18203,1247,1247,6.86,6.86,2018
+1680,Cut and sew apparel manufacturing,181000,191420,7555,10653,3.95,5.57,2018
+1690,Apparel accessories and other apparel manufacturing,10000,10030,0,0,0.0,0.0,2018
+1770,Footwear manufacturing,33000,27688,1964,1964,7.1,7.1,2018
+1790,Leather tanning and finishing and other allied products manufacturing,21000,18799,0,0,0.0,0.0,2018
+1870,"Pulp, paper, and paperboard mills",243000,199643,65929,69152,33.02,34.64,2018
+1880,Paperboard containers and boxes,100000,97802,14626,17056,14.96,17.44,2018
+1890,Miscellaneous paper and pulp products,76000,64496,7161,7161,11.1,11.1,2018
+1990,Printing and related support activities,483000,440286,14414,17070,3.27,3.88,2018
+2070,Petroleum refining,216000,152508,27308,28892,17.91,18.94,2018
+2090,Miscellaneous petroleum and coal products,32000,27678,3738,3738,13.51,13.51,2018
+2170,"Resin, synthetic rubber and fibers, and filaments manufacturing",181000,177856,4392,5708,2.47,3.21,2018
+2180,Agricultural chemical manufacturing,47000,33541,530,530,1.58,1.58,2018
+2190,Pharmaceutical and medicine manufacturing,586000,571044,15152,16361,2.65,2.87,2018
+2270,"Paint, coating, and adhesives manufacturing",70000,72495,5266,5266,7.26,7.26,2018
+2280,"Soap, cleaning compound, and cosmetic manufacturing",124000,136483,7541,9220,5.53,6.76,2018
+2290,Industrial and miscellaneous chemicals,489000,416387,34092,37146,8.19,8.92,2018
+2370,Plastics product manufacturing,397000,368935,24513,24765,6.64,6.71,2018
+2380,Tire manufacturing,68000,59114,8795,10528,14.88,17.81,2018
+2390,"Rubber products, except tires, manufacturing",90000,80857,7500,7714,9.28,9.54,2018
+5000,DURABLE GOODS MANUFACTURING,10453000,9480439,866501,936442,9.14,9.88,2018
+2470,"Pottery, ceramics, and plumbing fixture manufacturing",22000,13743,2146,2146,15.62,15.62,2018
+2480,Structural clay product manufacturing,26000,23526,1336,3211,5.68,13.65,2018
+2490,Glass and glass product manufacturing,142000,144626,14213,14213,9.83,9.83,2018
+2570,"Cement, concrete, lime, and gypsum product manufacturing",224000,186164,21274,22674,11.43,12.18,2018
+2590,Miscellaneous nonmetallic mineral product manufacturing,105000,99312,6069,7041,6.11,7.09,2018
+2670,Iron and steel mills and steel product manufacturing,298000,267213,66302,67288,24.81,25.18,2018
+2680,Aluminum production and processing,76000,63698,13944,13944,21.89,21.89,2018
+2690,Nonferrous metal (except aluminum) production and processing,58000,43394,3571,3571,8.23,8.23,2018
+2770,Foundries,78000,69805,8123,8123,11.64,11.64,2018
+2780,Metal forgings and stampings,62000,59360,5821,5821,9.81,9.81,2018
+2790,Cutlery and hand tool manufacturing,39000,34521,1259,1259,3.65,3.65,2018
+2870,"Structural metals, and boiler, tank, and shipping container manufacturing",365000,323649,29777,32732,9.2,10.11,2018
+2880,"Machine shops; turned product; screw, nut, and bolt manufacturing",316000,281711,9523,10870,3.38,3.86,2018
+2890,"Coating, engraving, heat treating and allied activities",75000,73355,4086,4086,5.57,5.57,2018
+2970,Ordnance,75000,47964,5974,7087,12.46,14.78,2018
+2980,Miscellaneous fabricated metal products manufacturing,344000,313098,25191,30140,8.05,9.63,2018
+2990,Not specified metal industries,23000,23870,0,0,0.0,0.0,2018
+3070,Agricultural implement manufacturing,152000,107222,11749,12531,10.96,11.69,2018
+3080,"Construction, and mining and oil and gas field machinery manufacturing",191000,141786,13733,13733,9.69,9.69,2018
+3095,Commercial and service industry machinery manufacturing,73000,73108,1804,1804,2.47,2.47,2018
+3170,Metalworking machinery manufacturing,139000,124836,10863,10863,8.7,8.7,2018
+3180,"Engines, turbines, and power transmission equipment manufacturing",59000,50463,1394,1928,2.76,3.82,2018
+3190,"Machinery manufacturing, n.e.c.",745000,689083,45194,50279,6.56,7.3,2018
+3365,Computer and peripheral equipment manufacturing,198000,184859,1209,1209,0.65,0.65,2018
+3370,"Communications, and audio and video equipment manufacturing",120000,117330,1461,3024,1.25,2.58,2018
+3380,"Navigational, measuring, electromedical, and control instruments manufacturing",237000,201582,12227,13463,6.07,6.68,2018
+3390,"Electronic component and product manufacturing, n.e.c.",683000,613825,18870,23299,3.07,3.8,2018
+3470,Household appliance manufacturing,78000,71740,4968,4968,6.93,6.93,2018
+3490,"Electrical lighting and electrical equipment manufacturing, and other electrical",361000,323161,14971,17854,4.63,5.52,2018
+3570,Motor vehicles and motor vehicle equipment manufacturing,1451000,1415521,234572,245033,16.57,17.31,2018
+3580,Aircraft and parts manufacturing,842000,793716,126244,131426,15.91,16.56,2018
+3590,Aerospace product and parts manufacturing,55000,50205,2602,2602,5.18,5.18,2018
+3670,Railroad rolling stock manufacturing,32000,30621,4475,6670,14.62,21.78,2018
+3680,Ship and boat building,214000,163482,39932,44819,24.43,27.42,2018
+3690,Other transportation equipment manufacturing,41000,38318,3739,3739,9.76,9.76,2018
+3770,Sawmills and wood preservation,183000,142011,5714,7007,4.02,4.93,2018
+3780,"Veneer, plywood, and engineered wood products",41000,28540,1510,1510,5.29,5.29,2018
+3790,Prefabricated wood buildings and mobile homes,49000,40835,691,691,1.69,1.69,2018
+3875,Miscellaneous wood products,216000,203017,3742,4520,1.84,2.23,2018
+3895,Furniture and related product manufacturing,426000,374034,30351,32087,8.11,8.58,2018
+3960,Medical equipment and supplies manufacturing,660000,606234,14111,16934,2.33,2.79,2018
+3970,"Sporting and athletic goods, and doll, toy and game manufacturing",119000,106257,3575,6086,3.36,5.73,2018
+3980,"Miscellaneous manufacturing, n.e.c.",500000,453495,25354,29248,5.59,6.45,2018
+3990,Not specified manufacturing industries,260000,266131,12816,14886,4.82,5.59,2018
+6000,WHOLESALE TRADE,3788000,3362578,140660,161922,4.18,4.82,2018
+4070,"Motor vehicles, parts and supplies, merchant wholesalers",189000,170455,3440,4719,2.02,2.77,2018
+4080,"Furniture and home furnishing, merchant wholesalers",61000,60512,2348,2348,3.88,3.88,2018
+4090,"Lumber and other construction materials, merchant wholesalers",177000,152100,4520,4520,2.97,2.97,2018
+4170,"Professional and commercial equipment and supplies, merchant wholesalers",338000,321486,3841,6043,1.19,1.88,2018
+4180,"Metals and minerals, except petroleum, merchant wholesalers",45000,41710,2152,2152,5.16,5.16,2018
+4195,"Electrical and electronic goods, merchant wholesalers",223000,202176,3678,5560,1.82,2.75,2018
+4265,"Hardware, plumbing and heating equipment, and supplies, merchant wholesalers",157000,130550,2252,3197,1.73,2.45,2018
+4270,"Machinery, equipment, and supplies, merchant wholesalers",372000,313734,6348,9457,2.02,3.01,2018
+4280,"Recyclable material, merchant wholesalers",96000,88846,985,985,1.11,1.11,2018
+4290,"Miscellaneous durable goods, merchant wholesalers",72000,58133,1137,1137,1.96,1.96,2018
+4370,"Paper and paper products, merchant wholesalers",57000,47250,2951,3963,6.25,8.39,2018
+4380,"Drugs, sundries, and chemical and allied products, merchant wholesalers",244000,230043,12887,14193,5.6,6.17,2018
+4390,"Apparel, fabrics, and notions, merchant wholesalers",85000,87627,1165,1572,1.33,1.79,2018
+4470,"Groceries and related products, merchant wholesalers",882000,821438,74872,80175,9.11,9.76,2018
+4480,"Farm product raw materials, merchant wholesalers",111000,65030,0,0,0.0,0.0,2018
+4490,"Petroleum and petroleum products, merchant wholesalers",169000,128314,4378,4378,3.41,3.41,2018
+4560,"Alcoholic beverages, merchant wholesalers",130000,102806,7522,7522,7.32,7.32,2018
+4570,"Farm supplies, merchant wholesalers",71000,54614,131,1565,0.24,2.87,2018
+4580,"Miscellaneous nondurable goods, merchant wholesalers",180000,156106,1738,2896,1.11,1.86,2018
+4585,"Wholesale electronics markets, agents and brokers",76000,75617,3095,4320,4.09,5.71,2018
+4590,Not specified wholesale trade,53000,54022,1210,1210,2.24,2.24,2018
+7000,RETAIL TRADE,17483000,15461696,678904,780434,4.39,5.05,2018
+4670,Automobile dealers,1471000,1306029,33188,38747,2.54,2.97,2018
+4680,Other motor vehicle dealers,173000,136819,3071,3071,2.24,2.24,2018
+4690,"Auto parts, accessories, and tire stores",581000,480022,6884,10506,1.43,2.19,2018
+4770,Furniture and home furnishings stores,569000,523516,14440,17548,2.76,3.35,2018
+4780,Household appliance stores,71000,65290,1079,1881,1.65,2.88,2018
+4795,"Radio, TV, and computer stores",501000,486126,12784,16772,2.63,3.45,2018
+4870,Building material and supplies dealers,1196000,1033874,18576,23180,1.8,2.24,2018
+4880,Hardware stores,251000,194312,0,1978,0.0,1.02,2018
+4890,Lawn and garden equipment and supplies stores,318000,229322,2893,2893,1.26,1.26,2018
+4970,Grocery stores,3085000,2721158,379678,407135,13.95,14.96,2018
+4980,Specialty food stores,195000,169848,7375,8828,4.34,5.2,2018
+4990,"Beer, wine, and liquor stores",125000,111779,2266,2416,2.03,2.16,2018
+5070,Pharmacies and drug stores,1053000,930079,45028,52045,4.84,5.6,2018
+5080,"Health and personal care, except drug, stores",398000,352731,6489,7689,1.84,2.18,2018
+5090,Gasoline stations,522000,437256,7635,7635,1.75,1.75,2018
+5170,Clothing stores,940000,915427,22659,27253,2.48,2.98,2018
+5180,Shoe stores,157000,145887,1191,2472,0.82,1.69,2018
+5190,"Jewelry, luggage, and leather goods stores",152000,136455,636,636,0.47,0.47,2018
+5275,"Sporting goods, camera, and hobby and toy stores",502000,418187,2228,4703,0.53,1.12,2018
+5280,"Sewing, needlework and piece goods stores",37000,28657,0,212,0.0,0.74,2018
+5295,Music stores,28000,25082,0,0,0.0,0.0,2018
+5370,Book stores and news dealers,102000,89790,7034,7034,7.83,7.83,2018
+5380,Department stores and discount stores,2252000,1954451,55474,70018,2.84,3.58,2018
+5390,Miscellaneous general merchandise stores,669000,599877,14047,24187,2.34,4.03,2018
+5470,Retail florists,85000,73031,1094,1094,1.5,1.5,2018
+5480,Office supplies and stationery stores,160000,152492,2562,4173,1.68,2.74,2018
+5490,Used merchandise stores,240000,213072,1058,1320,0.5,0.62,2018
+5570,"Gift, novelty, and souvenir shops",148000,120675,6129,6129,5.08,5.08,2018
+5580,Miscellaneous retail stores,490000,440373,4388,4388,1.0,1.0,2018
+5590,Electronic shopping,328000,340415,7800,9591,2.29,2.82,2018
+5591,Electronic auctions,19000,18514,0,0,0.0,0.0,2018
+5592,Mail order houses,68000,65525,976,976,1.49,1.49,2018
+5670,Vending machine operators,44000,40539,0,0,0.0,0.0,2018
+5680,Fuel dealers,109000,60714,3256,3513,5.36,5.79,2018
+5690,Other direct selling establishments,91000,79758,940,2359,1.18,2.96,2018
+5790,Not specified retail trade,353000,364598,6032,8036,1.65,2.2,2018
+8000,TRANSPORTATION & WAREHOUSING,7030000,6447385,1523998,1621967,23.64,25.16,2018
+6070,Air transportation,687000,614357,222394,233751,36.2,38.05,2018
+6080,Rail transportation,306000,223294,140178,142809,62.78,63.96,2018
+6090,Water transportation,93000,85049,18925,20784,22.25,24.44,2018
+6170,Truck transportation,1832000,1590562,131031,139271,8.24,8.76,2018
+6180,Bus service and urban transit,590000,569052,234568,253854,41.22,44.61,2018
+6190,Taxi and limousine service,446000,485111,25864,30049,5.33,6.19,2018
+6270,Pipeline transportation,88000,63881,9914,10909,15.52,17.08,2018
+6280,Scenic and sightseeing transportation,43000,29775,706,917,2.37,3.08,2018
+6290,Services incidental to transportation,822000,777474,130110,145781,16.74,18.75,2018
+6370,Postal Service,719000,627800,414790,434147,66.07,69.15,2018
+6380,Couriers and messengers,794000,743549,160446,167247,21.58,22.49,2018
+6390,Warehousing and storage,610000,637475,35067,42443,5.5,6.66,2018
+9000,INFORMATION,3013000,2719460,284821,303246,10.47,11.15,2018
+6470,Newspaper publishers,233000,178360,13423,14364,7.53,8.05,2018
+6480,"Periodical, book, and directory publishers",199000,180410,2711,2711,1.5,1.5,2018
+6490,Software publishers,83000,83000,1051,1051,1.27,1.27,2018
+6570,Motion pictures and video industries,381000,379687,50603,51095,13.33,13.46,2018
+6590,Sound recording industries,19000,21261,1054,1054,4.96,4.96,2018
+6670,Radio and television broadcasting and cable subscription programming,599000,539835,44331,49214,8.21,9.12,2018
+6672,Internet publishing and broadcasting and web search portals,144000,156001,168,1446,0.11,0.93,2018
+6680,Wired telecommunications carriers,481000,431827,81473,84559,18.87,19.58,2018
+6690,Other telecommunication services,466000,423819,51336,55188,12.11,13.02,2018
+6695,"Data processing, hosting, and related services",103000,92317,0,0,0.0,0.0,2018
+6770,Libraries and archives,271000,210442,38371,42265,18.23,20.08,2018
+6780,Other information services,34000,22495,293,293,1.31,1.31,2018
+10000,FINANCE & INSURANCE,7694000,6865109,118305,159058,1.72,2.32,2018
+6870,Banking and related activities,2354000,1997682,35880,46873,1.8,2.35,2018
+6880,"Savings institutions, including credit unions",331000,259555,3820,5513,1.47,2.12,2018
+6890,Non-depository credit and related activities,995000,920564,10317,14103,1.12,1.53,2018
+6970,"Securities, commodities, funds, trusts, and other financial investments",1167000,1108675,11716,21290,1.06,1.92,2018
+6990,Insurance carriers and related activities,2847000,2578631,56569,71277,2.19,2.76,2018
+11000,REAL ESTATE & RENTAL & LEASING,2638000,2452613,109974,134149,4.48,5.47,2018
+7070,Real estate,2234000,2079578,94761,115328,4.56,5.55,2018
+7080,Automotive equipment rental and leasing,182000,173132,8590,10208,4.96,5.9,2018
+7170,Video tape and disk rental,7000,8672,0,0,0.0,0.0,2018
+7180,Other consumer goods rental,94000,89947,1262,1262,1.4,1.4,2018
+7190,"Commercial, industrial, and other intangible assets rental and leasing",121000,101282,5359,7349,5.29,7.26,2018
+12000,"PROF., SCIENTIFIC, TECHNICAL SERVICES",10971000,9973022,190771,251985,1.91,2.53,2018
+7270,Legal services,1545000,1335901,28197,36716,2.11,2.75,2018
+7280,"Accounting, tax preparation, bookkeeping, and payroll services",971000,869585,15685,18544,1.8,2.13,2018
+7290,"Architectural, engineering, and related services",1766000,1568908,63259,71260,4.03,4.54,2018
+7370,Specialized design services,209000,203484,5477,10254,2.69,5.04,2018
+7380,Computer systems design and related services,3134000,3063149,31836,49571,1.04,1.62,2018
+7390,"Management, scientific, and technical consulting services",1260000,1116218,12321,22882,1.1,2.05,2018
+7460,Scientific research and development services,765000,631987,17018,23701,2.69,3.75,2018
+7470,Advertising and related services,543000,507018,7442,9521,1.47,1.88,2018
+7480,Veterinary services,446000,380057,5152,5152,1.36,1.36,2018
+7490,"Other professional, scientific, and technical services",332000,296708,4379,4379,1.48,1.48,2018
+13000,MANAGEMENT & RELATED SERVICES,6013000,5696361,288554,325691,5.07,5.72,2018
+7570,Management of companies and enterprises,203000,191433,6412,6583,3.35,3.44,2018
+7580,Employment services,970000,944670,16927,23780,1.79,2.52,2018
+7590,Business support services,674000,629678,12598,15342,2.0,2.44,2018
+7670,Travel arrangements and reservation services,277000,256138,4097,4554,1.6,1.78,2018
+7680,Investigation and security services,825000,790190,64779,71279,8.2,9.02,2018
+7690,Services to buildings and dwellings,1251000,1214362,78214,88127,6.44,7.26,2018
+7770,Landscaping services,938000,895608,19845,22335,2.22,2.49,2018
+7780,Other administrative and other support services,327000,303293,9362,11736,3.09,3.87,2018
+7790,Waste management and remediation services,548000,470984,76316,81951,16.2,17.4,2018
+14000,EDUCATIONAL SERVICES,16193000,13715809,4108451,4586391,29.95,33.44,2018
+7860,Elementary and secondary schools,10952000,9190030,3549827,3916201,38.63,42.61,2018
+7870,"Colleges and universities, including junior colleges",4498000,3854587,510463,612910,13.24,15.9,2018
+7880,"Business, technical, and trade schools and training",94000,76335,14162,16716,18.55,21.9,2018
+7890,"Other schools, instruction, and educational services",649000,594857,33997,40562,5.72,6.82,2018
+15000,HEALTH CARE & SOCIAL ASSISTANCE,23021000,19875557,1666768,1894635,8.39,9.53,2018
+7970,Offices of physicians,1636000,1459566,44713,61398,3.06,4.21,2018
+7980,Offices of dentists,906000,769667,9320,13297,1.21,1.73,2018
+7990,Offices of chiropractors,116000,87802,742,742,0.85,0.85,2018
+8070,Offices of optometrists,179000,144321,3322,3322,2.3,2.3,2018
+8080,Offices of other health practitioners,175000,160427,2754,2983,1.72,1.86,2018
+8090,Outpatient care centers,2169000,1803029,111330,128458,6.17,7.12,2018
+8170,Home health care services,1511000,1391773,107384,118655,7.72,8.53,2018
+8180,Other health care services,1629000,1489958,95095,110968,6.38,7.45,2018
+8190,Hospitals,8357000,7060285,929007,1038469,13.16,14.71,2018
+8270,Nursing care facilities,1924000,1659482,95782,110651,5.77,6.67,2018
+8290,"Residential care facilities, without nursing",1052000,904829,41888,47030,4.63,5.2,2018
+8370,Individual and family services,1702000,1468582,176366,196063,12.01,13.35,2018
+8380,"Community food and housing, and emergency services",158000,124639,7020,7168,5.63,5.75,2018
+8390,Vocational rehabilitation services,113000,97950,4315,4315,4.41,4.41,2018
+8470,Child day care services,1394000,1253239,37724,51108,3.01,4.08,2018
+16000,"ARTS, ENTERTAINMENT, & RECREATION",3146000,2739732,191529,217232,6.99,7.93,2018
+8560,"Independent artists, performing arts, spectator sports, & related industrie",511000,491235,52555,60448,10.7,12.31,2018
+8570,"Museums, art galleries, historical sites, and similar institutions",405000,320523,35477,40584,11.07,12.66,2018
+8580,Bowling centers,53000,40177,0,0,0.0,0.0,2018
+8590,"Other amusement, gambling, and recreation industries",2177000,1887795,103496,116200,5.48,6.16,2018
+17000,ACCOMODATION & FOOD SERVICES,11468000,10290367,241829,288733,2.35,2.81,2018
+8660,Traveler accommodation,1640000,1288434,113857,128342,8.84,9.96,2018
+8670,"Recreational vehicle parks and camps, and rooming and boarding houses",117000,95865,0,135,0.0,0.14,2018
+8680,Restaurants and other food services,9448000,8685335,127972,160255,1.47,1.85,2018
+8690,"Drinking places, alcoholic beverages",263000,220731,0,0,0.0,0.0,2018
+18000,"OTHER SERVICES, EXC. PUBLIC ADMIN.",7151000,6223423,163471,190795,2.63,3.07,2018
+8770,Automotive repair and maintenance,1127000,1021125,20456,23019,2.0,2.25,2018
+8780,Car washes,155000,148831,3215,5158,2.16,3.47,2018
+8790,Electronic and precision equipment repair and maintenance,94000,84557,1032,1032,1.22,1.22,2018
+8870,Commercial and industrial machinery and equipment repair and maintenance,268000,221461,15450,18408,6.98,8.31,2018
+8880,Personal and household goods repair and maintenance,115000,105108,1048,2188,1.0,2.08,2018
+8970,Barber shops,60000,59921,1350,1350,2.25,2.25,2018
+8980,Beauty salons,680000,652507,4885,7607,0.75,1.17,2018
+8990,Nail salons and other personal care services,392000,394840,925,1341,0.23,0.34,2018
+9070,Drycleaning and laundry services,271000,253953,15445,15445,6.08,6.08,2018
+9080,"Funeral homes, cemeteries, and crematories",140000,112490,1411,2503,1.25,2.23,2018
+9090,Other personal services,308000,296650,13038,19307,4.4,6.51,2018
+9160,Religious organizations,1263000,1039182,15295,18676,1.47,1.8,2018
+9170,"Civic, social, advocacy organizations, and grantmaking and giving services",1118000,840403,19211,20926,2.29,2.49,2018
+9180,Labor unions,82000,65311,41623,41876,63.73,64.12,2018
+9190,"Business, professional, political, and similar organizations",248000,165999,4534,6556,2.73,3.95,2018
+9290,Private households,830000,761079,4547,5394,0.6,0.71,2018
+19000,PUBLIC ADMINISTRATION,9341000,7358357,2138009,2352518,29.06,31.97,2018
+9370,Executive offices and legislative bodies,1559000,1216893,254259,278725,20.89,22.9,2018
+9380,Public finance activities,426000,330941,74709,92690,22.57,28.01,2018
+9390,Other general government and support,153000,127274,25831,33336,20.3,26.19,2018
+9470,"Justice, public order, and safety activities",3365000,2850751,1174121,1246178,41.19,43.71,2018
+9480,Administration of human resource programs,1313000,1083169,270423,298341,24.97,27.54,2018
+9490,Administration of environmental quality and housing programs,432000,265748,59459,65258,22.37,24.56,2018
+9570,Administration of economic programs and space research,805000,548427,148745,164225,27.12,29.94,2018
+9590,National security and international affairs,1288000,935150,130459,173761,13.95,18.58,2018

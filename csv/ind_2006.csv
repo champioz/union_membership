@@ -1,0 +1,283 @@
+cic,industry,obs,employment,members,covered,percentmem,percentcov,year
+1000,"AGRICULTURE, FORESTRY, FISHING, & HUNTING",1748000,1111961,32772,35891,2.95,3.23,2006
+170,Crop production,630000,444509,11357,13055,2.56,2.94,2006
+180,Animal production,698000,410567,7288,7288,1.78,1.78,2006
+190,Forestry except logging,105000,52624,3878,4408,7.37,8.38,2006
+270,Logging,122000,70480,4169,4169,5.92,5.92,2006
+280,"Fishing, hunting, and trapping",44000,20302,0,0,0.0,0.0,2006
+290,Support activities for agriculture and forestry,149000,113477,6079,6970,5.36,6.14,2006
+2000,MINING,1213000,633712,47654,55757,7.52,8.8,2006
+370,Oil and gas extraction,150000,93765,1054,2121,1.12,2.26,2006
+380,Coal mining,268000,97719,21519,22554,22.02,23.08,2006
+390,Metal ore mining,75000,29988,5670,7865,18.91,26.23,2006
+470,Nonmetallic mineral mining and quarrying,194000,102527,15867,17180,15.48,16.76,2006
+480,Not specified type of mining,6000,3202,0,0,0.0,0.0,2006
+490,Support activities for mining,520000,306509,3541,6035,1.16,1.97,2006
+3000,UTILITIES,13758000,10059016,1608785,1684343,15.99,16.74,2006
+570,"Electric power generation, transmission and distribution",912000,627060,189749,198685,30.26,31.69,2006
+580,Natural gas distribution,196000,132754,33130,33311,24.96,25.09,2006
+590,"Electric and gas, and other combinations",95000,71784,31161,31161,43.41,43.41,2006
+670,"Water, steam, air-conditioning, and irrigation systems",311000,222642,63556,69050,28.55,31.01,2006
+680,Sewage treatment facilities,158000,110097,37693,37798,34.24,34.33,2006
+690,Not specified utilities,20000,17502,6972,6972,39.84,39.84,2006
+770,CONSTRUCTION,12066000,8877175,1246521,1307364,14.04,14.73,2006
+4000,NONDURABLE GOODS MANUFACTURING,7574000,5590212,641532,690362,11.48,12.35,2006
+1070,"Animal food, grain and oilseed milling",211000,131303,25226,25226,19.21,19.21,2006
+1080,Sugar and confectionery products,107000,77041,18422,18801,23.91,24.4,2006
+1090,Fruit and vegetable preserving and specialty food manufacturing,222000,151052,29464,31275,19.51,20.7,2006
+1170,Dairy product manufacturing,232000,141303,24630,26255,17.43,18.58,2006
+1180,Animal slaughtering and processing,739000,465920,87483,94893,18.78,20.37,2006
+1190,Retail bakeries,174000,126687,12553,13486,9.91,10.65,2006
+1270,"Bakeries, except retail",217000,163397,34906,36049,21.36,22.06,2006
+1280,"Seafood and other miscellaneous foods, n.e.c.",258000,185081,21775,21775,11.77,11.77,2006
+1290,Not specified food industries,25000,17822,1959,3454,10.99,19.38,2006
+1370,Beverage manufacturing,261000,198918,23506,28926,11.82,14.54,2006
+1390,Tobacco manufacturing,35000,32227,6824,9631,21.18,29.88,2006
+1470,"Fiber, yarn, and thread mills",32000,26389,0,0,0.0,0.0,2006
+1480,"Fabric mills, except knitting",148000,114103,3754,3754,3.29,3.29,2006
+1490,Textile and fabric finishing and coating mills,52000,38365,1339,1339,3.49,3.49,2006
+1570,Carpet and rug mills,75000,70681,979,979,1.39,1.39,2006
+1590,"Textile product mills, except carpets and rugs",137000,105953,3172,4221,2.99,3.98,2006
+1670,Knitting mills,30000,22879,0,0,0.0,0.0,2006
+1680,Cut and sew apparel manufacturing,334000,300628,12623,15780,4.2,5.25,2006
+1690,Apparel accessories and other apparel manufacturing,15000,12557,0,0,0.0,0.0,2006
+1770,Footwear manufacturing,68000,39562,3937,3937,9.95,9.95,2006
+1790,"Leather tanning and products, except footwear manufacturing",42000,33850,1132,1132,3.35,3.35,2006
+1870,"Pulp, paper, and paperboard mills",292000,199132,63934,66159,32.11,33.22,2006
+1880,Paperboard containers and boxes,204000,160546,31112,31584,19.38,19.67,2006
+1890,Miscellaneous paper and pulp products,130000,95776,12856,12856,13.42,13.42,2006
+1990,Printing and related support activities,886000,652430,38933,39930,5.97,6.12,2006
+2070,Petroleum refining,162000,133432,26851,31372,20.12,23.51,2006
+2090,Miscellaneous petroleum and coal products,25000,18503,4050,4050,21.89,21.89,2006
+2170,"Resin, synthetic rubber and fibers, and filaments manufacturing",157000,120863,7383,8376,6.11,6.93,2006
+2180,Agricultural chemical manufacturing,43000,28115,2286,2286,8.13,8.13,2006
+2190,Pharmaceutical and medicine manufacturing,531000,406644,16890,19837,4.15,4.88,2006
+2270,"Paint, coating, and adhesive manufacturing",87000,70942,5003,5003,7.05,7.05,2006
+2280,"Soap, cleaning compound, and cosmetics manufacturing",170000,131137,5448,7928,4.15,6.05,2006
+2290,Industrial and miscellaneous chemicals,563000,417373,43743,45848,10.48,10.99,2006
+2370,Plastics product manufacturing,678000,521144,37219,41074,7.14,7.88,2006
+2380,Tire manufacturing,120000,101658,28793,29800,28.32,29.31,2006
+2390,"Rubber products, except tires, manufacturing",112000,76783,3330,3330,4.34,4.34,2006
+5000,DURABLE GOODS MANUFACTURING,13496000,10134924,1208905,1285347,11.93,12.68,2006
+2470,"Pottery, ceramics, and related products manufacturing",29000,19480,1312,1312,6.74,6.74,2006
+2480,Structural clay product manufacturing,42000,32031,2450,2450,7.65,7.65,2006
+2490,Glass and glass product manufacturing,169000,142424,29665,30905,20.83,21.7,2006
+2570,"Cement, concrete, lime, and gypsum product manufacturing",290000,211083,29104,29104,13.79,13.79,2006
+2590,Miscellaneous nonmetallic mineral product manufacturing,116000,82256,9053,9053,11.01,11.01,2006
+2670,Iron and steel mills and steel product manufacturing,331000,276623,70544,72910,25.5,26.36,2006
+2680,Aluminum production and processing,82000,71618,19655,19655,27.44,27.44,2006
+2690,"Nonferrous metal, except aluminum, production and processing",65000,48987,8436,8436,17.22,17.22,2006
+2770,Foundries,133000,104870,21613,23926,20.61,22.82,2006
+2780,Metal forgings and stampings,109000,86012,9470,10372,11.01,12.06,2006
+2790,Cutlery and hand tool manufacturing,69000,50169,4238,4238,8.45,8.45,2006
+2870,"Structural metals, and tank and shipping container manufacturing",562000,387758,54326,56239,14.01,14.5,2006
+2880,"Machine shops; turned product; screw, nut and bolt manufacturing",440000,334596,25445,25819,7.6,7.72,2006
+2890,"Coating, engraving, heat treating and allied activities",133000,90583,3908,3908,4.31,4.31,2006
+2970,Ordnance,80000,41444,5158,5336,12.45,12.88,2006
+2980,Miscellaneous fabricated metal products manufacturing,381000,282006,31763,32263,11.26,11.44,2006
+2990,Not specified metal industries,14000,9895,497,1404,5.03,14.19,2006
+3070,Agricultural implement manufacturing,159000,89900,9351,10319,10.4,11.48,2006
+3080,"Construction, mining and oil field machinery manufacturing",185000,126539,9309,10838,7.36,8.57,2006
+3090,Commercial and service industry machinery manufacturing,156000,106608,6040,6040,5.67,5.67,2006
+3170,Metalworking machinery manufacturing,211000,156987,12530,12530,7.98,7.98,2006
+3180,"Engines, turbines, and power transmission equipment manufacturing",101000,78873,13312,13983,16.88,17.73,2006
+3190,"Machinery manufacturing, n.e.c.",921000,690027,56975,62670,8.26,9.08,2006
+3290,Not specified machinery manufacturing,9000,3857,676,676,17.52,17.52,2006
+3360,Computer and peripheral equipment manufacturing,419000,341467,1686,4187,0.49,1.23,2006
+3370,"Communications, audio, and video equipment manufacturing",220000,174821,3728,6570,2.13,3.76,2006
+3380,"Navigational, measuring, electromedical, & control instruments manufacturin",372000,240455,17684,20588,7.35,8.56,2006
+3390,"Electronic component and product manufacturing, n.e.c.",1002000,739017,19936,23114,2.7,3.13,2006
+3470,Household appliance manufacturing,120000,95388,22350,23075,23.43,24.19,2006
+3490,"Electrical lighting, equipment, and supplies manufacturing, n.e.c.",583000,440866,33912,36417,7.69,8.26,2006
+3570,Motor vehicles and motor vehicle equipment manufacturing,1570000,1377526,358121,369612,26.0,26.83,2006
+3580,Aircraft and parts manufacturing,537000,363838,76098,85997,20.92,23.64,2006
+3590,Aerospace products and parts manufacturing,336000,263819,42309,45197,16.04,17.13,2006
+3670,Railroad rolling stock manufacturing,35000,26448,8799,8799,33.27,33.27,2006
+3680,Ship and boat building,252000,160415,33049,39587,20.6,24.68,2006
+3690,Other transportation equipment manufacturing,63000,45958,6772,6772,14.74,14.74,2006
+3770,Sawmills and wood preservation,189000,125742,14726,17692,11.71,14.07,2006
+3780,"Veneer, plywood, and engineered wood products",105000,66382,6561,7700,9.88,11.6,2006
+3790,Prefabricated wood buildings and mobile homes,90000,68317,1831,2550,2.68,3.73,2006
+3870,Miscellaneous wood products,362000,244657,14482,14482,5.92,5.92,2006
+3890,Furniture and related product manufacturing,823000,657345,32881,36333,5.0,5.53,2006
+3960,Medical equipment and supplies manufacturing,698000,503966,12314,12937,2.44,2.57,2006
+3970,"Toys, amusement, and sporting goods manufacturing",176000,117825,5837,7001,4.95,5.94,2006
+3980,"Miscellaneous manufacturing, n.e.c.",550000,366339,34312,34462,9.37,9.41,2006
+3990,Not specified manufacturing industries,207000,189684,26660,27865,14.06,14.69,2006
+6000,WHOLESALE TRADE,5608000,4111638,202078,215643,4.91,5.24,2006
+4070,"Motor vehicles, parts and supplies, merchant wholesalers",297000,229610,8465,8465,3.69,3.69,2006
+4080,"Furniture and home furnishing, merchant wholesalers",105000,78489,2588,2588,3.3,3.3,2006
+4090,"Lumber and other construction materials, merchant wholesalers",299000,210116,7886,8385,3.75,3.99,2006
+4170,"Professional and commercial equipment and supplies, merchant wholesalers",553000,407440,9117,10983,2.24,2.7,2006
+4180,"Metals and minerals, except petroleum, merchant wholesalers",103000,77631,3342,3342,4.31,4.31,2006
+4190,"Electrical goods, merchant wholesalers",388000,309838,10467,11427,3.38,3.69,2006
+4260,"Hardware, plumbing and heating equipment, and supplies, merchant wholesaler",256000,178737,7456,7456,4.17,4.17,2006
+4270,"Machinery, equipment, and supplies, merchant wholesalers",720000,517953,17242,17342,3.33,3.35,2006
+4280,"Recyclable material, merchant wholesalers",126000,97581,2319,5983,2.38,6.13,2006
+4290,"Miscellaneous durable goods, merchant wholesalers",161000,125843,663,663,0.53,0.53,2006
+4370,"Paper and paper products, merchant wholesalers",119000,81128,2061,2956,2.54,3.64,2006
+4380,"Drugs, sundries, and chemical and allied products, merchant  wholesalers",334000,265096,8869,9653,3.35,3.64,2006
+4390,"Apparel, fabrics, and notions, merchant wholesalers",117000,95532,5698,5698,5.96,5.96,2006
+4470,"Groceries and related products, merchant wholesalers",1086000,785811,88452,93101,11.26,11.85,2006
+4480,"Farm product raw materials, merchant wholesalers",94000,48337,1939,1939,4.01,4.01,2006
+4490,"Petroleum and petroleum products, merchant wholesalers",188000,122573,2979,2979,2.43,2.43,2006
+4560,"Alcoholic beverages, merchant wholesalers",196000,142007,12922,13068,9.1,9.2,2006
+4570,"Farm supplies, merchant wholesalers",95000,58225,436,436,0.75,0.75,2006
+4580,"Miscellaneous  nondurable goods, merchant wholesalers",243000,185452,6901,6901,3.72,3.72,2006
+4585,"Wholesale electronic markets, agents and brokers",88000,65881,1840,1840,2.79,2.79,2006
+4590,Not specified wholesale trade,40000,28349,428,428,1.51,1.51,2006
+7000,RETAIL TRADE,21033000,15237790,765466,823219,5.02,5.4,2006
+4670,Automobile dealers,1861000,1360787,44118,45240,3.24,3.32,2006
+4680,Other motor vehicle dealers,227000,162337,1882,1882,1.16,1.16,2006
+4690,"Auto parts, accessories, and tire stores",623000,466731,12133,12534,2.6,2.69,2006
+4770,Furniture and home furnishings stores,775000,609307,9816,10838,1.61,1.78,2006
+4780,Household appliance stores,97000,64829,1464,2021,2.26,3.12,2006
+4790,"Radio, TV, and computer stores",729000,552228,2327,5105,0.42,0.92,2006
+4870,Building material and supplies dealers,1454000,1046657,22255,25547,2.13,2.44,2006
+4880,Hardware stores,289000,190513,2421,2421,1.27,1.27,2006
+4890,Lawn and garden equipment and supplies stores,349000,224515,2107,2107,0.94,0.94,2006
+4970,Grocery stores,3565000,2506341,479588,504895,19.14,20.14,2006
+4980,Specialty food stores,252000,181647,8428,8428,4.64,4.64,2006
+4990,"Beer, wine, and liquor stores",150000,105140,5495,6879,5.23,6.54,2006
+5070,Pharmacies and drug stores,1071000,790417,36708,40843,4.64,5.17,2006
+5080,"Health and personal care, except drug, stores",306000,233674,2660,3918,1.14,1.68,2006
+5090,Gasoline stations,721000,491103,11552,11552,2.35,2.35,2006
+5170,"Clothing and accessories, except shoe, stores",1132000,837677,7163,9031,0.86,1.08,2006
+5180,Shoe stores,184000,141693,3111,3111,2.2,2.2,2006
+5190,"Jewelry, luggage, and leather goods stores",228000,160480,1523,1523,0.95,0.95,2006
+5270,"Sporting goods, camera, and hobby and toy stores",588000,385496,1763,2431,0.46,0.63,2006
+5280,"Sewing, needlework, and piece goods stores",74000,48129,1079,1079,2.24,2.24,2006
+5290,Music stores,125000,94302,680,680,0.72,0.72,2006
+5370,Book stores and news dealers,229000,174188,2547,2547,1.46,1.46,2006
+5380,Department stores and discount stores,3265000,2439662,64911,71504,2.66,2.93,2006
+5390,Miscellaneous general merchandise stores,586000,429070,13013,17616,3.03,4.11,2006
+5470,Retail florists,189000,131118,0,902,0.0,0.69,2006
+5480,Office supplies and stationery stores,215000,162358,2079,3293,1.28,2.03,2006
+5490,Used merchandise stores,181000,135091,0,0,0.0,0.0,2006
+5570,"Gift, novelty, and souvenir shops",260000,176285,3585,3585,2.03,2.03,2006
+5580,Miscellaneous retail stores,423000,316125,5425,5425,1.72,1.72,2006
+5590,Electronic shopping,70000,57511,0,0,0.0,0.0,2006
+5591,Electronic auctions,14000,8356,0,0,0.0,0.0,2006
+5592,Mail order houses,157000,92035,1783,2304,1.94,2.5,2006
+5670,Vending machine operators,75000,60811,3993,3993,6.57,6.57,2006
+5680,Fuel dealers,151000,79819,4107,4238,5.15,5.31,2006
+5690,Other direct selling establishments,159000,109215,2920,2920,2.67,2.67,2006
+5790,Not specified retail trade,259000,212125,2814,2814,1.33,1.33,2006
+8000,TRANSPORTATION & WAREHOUSING,7644000,5633515,1718571,1831032,30.51,32.5,2006
+6070,Air transportation,757000,530161,261259,273695,49.28,51.62,2006
+6080,Rail transportation,418000,264808,187621,187725,70.85,70.89,2006
+6090,Water transportation,103000,68507,10839,10936,15.82,15.96,2006
+6170,Truck transportation,2186000,1622556,194127,205173,11.96,12.65,2006
+6180,Bus service and urban transit,748000,562989,221711,227434,39.38,40.4,2006
+6190,Taxi and limousine service,177000,146037,11474,17052,7.86,11.68,2006
+6270,Pipeline transportation,72000,35249,3219,3320,9.13,9.42,2006
+6280,Scenic and sightseeing transportation,42000,19905,916,916,4.61,4.61,2006
+6290,Services incidental to transportation,786000,621211,119006,128439,19.16,20.68,2006
+6370,Postal Service,1174000,807461,511400,562504,63.33,69.66,2006
+6380,Couriers and messengers,785000,621281,171215,183427,27.56,29.52,2006
+6390,Warehousing and storage,396000,333343,25778,30407,7.73,9.12,2006
+9000,INFORMATION,4448000,3312247,411173,447397,12.41,13.51,2006
+6470,Newspaper publishers,654000,440058,50060,53870,11.38,12.24,2006
+6480,"Publishing, except newspapers and software",398000,294957,7932,9016,2.69,3.06,2006
+6490,Software publishing,136000,108397,0,0,0.0,0.0,2006
+6570,Motion pictures and video industries,341000,283128,31788,32881,11.23,11.61,2006
+6590,Sound recording industries,20000,15948,0,0,0.0,0.0,2006
+6670,Radio and television broadcasting and cable,732000,528132,30728,39699,5.82,7.52,2006
+6675,Internet publishing and broadcasting,18000,15799,0,0,0.0,0.0,2006
+6680,Wired telecommunications carriers,1125000,844610,196938,210955,23.32,24.98,2006
+6690,Other telecommunications services,418000,341960,48211,50340,14.1,14.72,2006
+6692,Internet service providers,76000,62741,0,0,0.0,0.0,2006
+6695,"Data processing, hosting, and related services",139000,97085,0,0,0.0,0.0,2006
+6770,Libraries and archives,339000,238052,45247,49562,19.01,20.82,2006
+6780,Other information services,52000,41373,265,1071,0.64,2.59,2006
+10000,FINANCE & INSURANCE,9344000,6661224,143607,179814,2.16,2.7,2006
+6870,Banking and related activities,2768000,1947717,30337,41248,1.56,2.12,2006
+6880,"Savings institutions, including credit unions",462000,301412,8651,9989,2.87,3.31,2006
+6890,Non-depository credit and related activities,1520000,1119647,13755,16808,1.23,1.5,2006
+6970,"Securities, commodities, funds, trusts, and other financial investments",1339000,1013864,13507,21987,1.33,2.17,2006
+6990,Insurance carriers and related activities,3255000,2278582,77356,89781,3.39,3.94,2006
+11000,REAL ESTATE & RENTAL & LEASING,3257000,2436483,102265,108924,4.2,4.47,2006
+7070,Real estate,2600000,1962875,74501,81066,3.8,4.13,2006
+7080,Automotive equipment rental and leasing,248000,181307,16600,16600,9.16,9.16,2006
+7170,Video tape and disk rental,133000,91405,712,712,0.78,0.78,2006
+7180,Other consumer goods rental,131000,103701,2700,2700,2.6,2.6,2006
+7190,"Commercial, industrial, and other intangible assets rental and leasing",145000,97193,7750,7844,7.97,8.07,2006
+12000,"PROF., SCIENTIFIC, TECHNICAL SERVICES",9308000,6829515,117234,150853,1.72,2.21,2006
+7270,Legal services,1837000,1316496,20872,24366,1.59,1.85,2006
+7280,"Accounting, tax preparation, bookkeeping, and payroll services",874000,649084,8240,11321,1.27,1.74,2006
+7290,"Architectural, engineering, and related services",1777000,1290812,38270,45853,2.96,3.55,2006
+7370,Specialized design services,210000,166919,319,684,0.19,0.41,2006
+7380,Computer systems design and related services,1802000,1383961,18159,23967,1.31,1.73,2006
+7390,"Management, scientific, and technical consulting services",875000,620356,8550,10973,1.38,1.77,2006
+7460,Scientific research and development services,774000,554587,15317,22094,2.76,3.98,2006
+7470,Advertising and related services,527000,401843,5351,7215,1.33,1.8,2006
+7480,Veterinary services,327000,232662,725,725,0.31,0.31,2006
+7490,"Other professional, scientific, and technical services",305000,212790,1425,3651,0.67,1.72,2006
+13000,MANAGEMENT & RELATED SERVICES,6595000,4968147,227398,261566,4.58,5.26,2006
+7570,Management of companies and enterprises,194000,144812,5824,9040,4.02,6.24,2006
+7580,Employment services,1323000,990132,17231,23575,1.74,2.38,2006
+7590,Business support services,825000,601151,8823,11600,1.47,1.93,2006
+7670,Travel arrangements and reservation services,302000,201094,1460,2148,0.73,1.07,2006
+7680,Investigation and security services,856000,676498,47710,53194,7.05,7.86,2006
+7690,Services to buildings and dwellings,1215000,901031,49942,54918,5.54,6.1,2006
+7770,Landscaping services,1040000,821849,15127,20174,1.84,2.45,2006
+7780,Other administrative and other support services,317000,246940,12210,13323,4.94,5.4,2006
+7790,Waste management and remediation services,523000,384636,69067,73590,17.96,19.13,2006
+14000,EDUCATIONAL SERVICES,17651000,12194346,4072317,4583153,33.4,37.58,2006
+7860,Elementary and secondary schools,12065000,8377099,3582004,3993930,42.76,47.68,2006
+7870,"Colleges and universities, including junior colleges",4930000,3327105,464129,558759,13.95,16.79,2006
+7880,"Business, technical, and trade schools and training",140000,106181,8877,8877,8.36,8.36,2006
+7890,"Other schools, instruction, and educational services",516000,383959,17306,21586,4.51,5.62,2006
+15000,HEALTH CARE & SOCIAL ASSISTANCE,22767000,16012150,1440902,1612070,9.0,10.07,2006
+7970,Offices of physicians,2164000,1567227,37209,47171,2.37,3.01,2006
+7980,Offices of dentists,983000,700755,8106,11096,1.16,1.58,2006
+7990,Offices of chiropractors,138000,98328,1350,1350,1.37,1.37,2006
+8070,Offices of optometrists,117000,86362,1854,1854,2.15,2.15,2006
+8080,Offices of other health practitioners,226000,158761,4999,4999,3.15,3.15,2006
+8090,Outpatient care centers,1281000,886088,72041,85118,8.13,9.61,2006
+8170,Home health care services,1104000,831930,65793,70237,7.91,8.44,2006
+8180,Other health care services,1485000,1048571,86925,99881,8.29,9.53,2006
+8190,Hospitals,8136000,5727675,778836,877970,13.6,15.33,2006
+8270,Nursing care facilities,2610000,1769610,147974,155567,8.36,8.79,2006
+8290,"Residential care facilities, without nursing",1013000,668070,37702,41070,5.64,6.15,2006
+8370,Individual and family services,1492000,1049106,149226,159591,14.22,15.21,2006
+8380,"Community food and housing, and emergency services",171000,115578,5699,5699,4.93,4.93,2006
+8390,Vocational rehabilitation services,336000,219650,9433,13134,4.29,5.98,2006
+8470,Child day care services,1511000,1084432,33747,37325,3.11,3.44,2006
+16000,"ARTS, ENTERTAINMENT, & RECREATION",3145000,2140387,169523,188861,7.92,8.82,2006
+8560,"Independent artists, performing arts, spectator sports, & related industrie",462000,342858,38738,42543,11.3,12.41,2006
+8570,"Museums, art galleries, historical sites, and similar institutions",517000,348931,51271,55304,14.69,15.85,2006
+8580,Bowling centers,63000,42539,160,160,0.38,0.38,2006
+8590,"Other amusement, gambling, and recreation industries",2103000,1406058,79353,90853,5.64,6.46,2006
+17000,ACCOMODATION & FOOD SERVICES,12461000,8927034,222697,254491,2.49,2.85,2006
+8660,Traveler accommodation,2178000,1341591,130584,141151,9.73,10.52,2006
+8670,"Recreational vehicle parks and camps, and rooming and boarding houses",144000,89831,1875,1875,2.09,2.09,2006
+8680,Restaurants and other food services,9846000,7291786,88863,110089,1.22,1.51,2006
+8690,"Drinking places, alcoholic beverages",293000,203825,1373,1373,0.67,0.67,2006
+18000,"OTHER SERVICES, EXC. PUBLIC ADMIN.",7822000,5728043,186425,208026,3.25,3.63,2006
+8770,Automotive repair and maintenance,1181000,897961,14056,16185,1.57,1.8,2006
+8780,Car washes,193000,157527,3034,3034,1.93,1.93,2006
+8790,Electronic and precision equipment repair and maintenance,171000,140422,4565,4565,3.25,3.25,2006
+8870,Commercial and industrial machinery and equipment repair and maintenance,301000,234527,19017,19017,8.11,8.11,2006
+8880,Personal and household goods repair and maintenance,137000,105985,1651,2668,1.56,2.52,2006
+8890,Footwear and leather goods repair,3000,2863,0,0,0.0,0.0,2006
+8970,Barber shops,60000,48346,2600,2600,5.38,5.38,2006
+8980,Beauty salons,767000,584377,1863,3597,0.32,0.62,2006
+8990,Nail salons and other personal care services,246000,201244,922,2057,0.46,1.02,2006
+9070,Drycleaning and laundry services,390000,283405,13397,14667,4.73,5.18,2006
+9080,"Funeral homes, cemeteries, and crematories",164000,112514,6293,8425,5.59,7.49,2006
+9090,Other personal services,267000,200455,12004,13443,5.99,6.71,2006
+9160,Religious organizations,1469000,1055186,11301,13584,1.07,1.29,2006
+9170,"Civic, social, advocacy organizations, and grantmaking and giving services",975000,617482,19359,22958,3.14,3.72,2006
+9180,Labor unions,118000,82812,64790,68054,78.24,82.18,2006
+9190,"Business, professional, political, and similar organizations",308000,186900,5949,7051,3.18,3.77,2006
+9290,Private households,1072000,816027,5617,6111,0.69,0.75,2006
+19000,PUBLIC ADMINISTRATION,9789000,6514829,2039789,2243421,31.31,34.44,2006
+9370,Executive offices and legislative bodies,1274000,828175,174848,193089,21.11,23.32,2006
+9380,Public finance activities,532000,349277,108379,115926,31.03,33.19,2006
+9390,Other general government and support,170000,106575,18954,22211,17.79,20.84,2006
+9470,"Justice, public order, and safety activities",3782000,2771990,1181937,1248912,42.64,45.05,2006
+9480,Administration of human resource programs,1337000,825758,229280,262422,27.77,31.78,2006
+9490,Administration of environmental quality and housing programs,614000,342750,91214,109163,26.61,31.85,2006
+9570,Administration of economic programs and space research,948000,591169,159615,176408,27.0,29.84,2006
+9590,National security and international affairs,1132000,699132,75559,115287,10.81,16.49,2006
