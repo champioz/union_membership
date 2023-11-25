@@ -34,7 +34,7 @@ def process_raw(path):
         # Record full list of categories, including
         # those that will be kept
         indcaps = df[df.industry.str.contains(
-            r'''^[A-Z\s,]+$'''
+            r'''^[A-Z\s,&]+$'''
         )].index.tolist()
         
         # Add appropriate category to each row
