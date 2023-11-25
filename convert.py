@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import os
 import re
 import psycopg2
@@ -20,10 +21,36 @@ def process_raw(path):
             r'''(?P<year>[0-9]{4})'''
         )
         df['year'] = ptrn.search(file).group()
-        for index in range(df['cic'].isna().sum()):
-            df.fillna((index+1)*1000, limit=1, inplace=True)
+        df['category'] = np.nan
         
-        df['cic'] = df['cic'].astype(int)
+        # Add categories, and then remove 
+        # categories which only serve as
+        # aggregates - i.e., keep a category
+        # only if it has no subcategories
+        
+        # Record categories with no subcategories
+        cicna = np.where(df['cic'].isna())[0]
+        
+        # Record full list of categories, including
+        # those that will be kept
+        indcaps = df[df.industry.str.contains(
+            r'''^[A-Z\s,]+$'''
+        )].index.tolist()
+        
+        # Add appropriate category to each row
+        for ind, na_index in enumerate(indcaps):
+            
+            category = df['industry'][na_index]
+            
+            if (ind + 1) == len(indcaps):
+                df.loc[na_index:, -1] = category
+                break
+            
+            next_index = indcaps[ind+1]
+            df.loc[na_index:next_index-1, -1] = category
+            
+        # Drop appropriate categories
+        df.drop(cicna, axis=0, inplace=True)
         
         df.to_csv(f'./csv/{file[0:8]}.csv', index=False)
 
@@ -38,7 +65,6 @@ def load_sql(path):
         
         for file in os.listdir(path):
             
-            fullpath = os.path.abspath(path+file)
             sql = '''
                 COPY byIndustry
                 FROM STDIN
@@ -46,11 +72,8 @@ def load_sql(path):
                 CSV HEADER;
                 '''
             cur.copy_expert(sql,
-                            open(fullpath, 'r'))
-        cur.execute(
-            'SELECT * FROM byindustry ORDER BY percentmem DESC LIMIT 3;'
-        )
-        print(cur.fetchall())
+                            open(path + file, 'r'))
+        
         cur.close()
         conn.commit()
         conn.close()
@@ -60,4 +83,4 @@ def load_sql(path):
 
 
 process_raw('./raw/')
-load_sql('./csv/')
+#load_sql('./csv/')
